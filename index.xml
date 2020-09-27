@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kevin Remmy</title>
+    <link>/</link>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kevin Remmy</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 26 Sep 2020 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>/img/avatar.jpg</url>
+      <title>Kevin Remmy</title>
+      <link>/</link>
+    </image>
+    
+    <item>
+      <title>Endogenous product attribute choice and the design of electric vehicle subsidies (Job Market Paper)</title>
+      <link>/publication/jmp/</link>
+      <pubDate>Sat, 26 Sep 2020 00:00:00 +0200</pubDate>
+      <guid>/publication/jmp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Price Competition and Endogenous Product Choice in Networks: Evidence from the US Airline Industry</title>
+      <link>/publication/airline_network/</link>
+      <pubDate>Sun, 26 Jul 2020 00:00:00 +0200</pubDate>
+      <guid>/publication/airline_network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching Assistanceship</title>
+      <link>/teaching/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0100</pubDate>
+      <guid>/teaching/</guid>
+      <description>&lt;h4 id=&#34;econometrics-1st-year-master&#34;&gt;Econometrics (1st year Master)&lt;/h4&gt;
+&lt;p&gt;2017-2019 &lt;br&gt;
+TA Coordinator: 2019&lt;/p&gt;
+&lt;h4 id=&#34;r-programming-1st-year-master&#34;&gt;R Programming (1st year Master)&lt;/h4&gt;
+&lt;p&gt;2017-2019&lt;/p&gt;
+&lt;h4 id=&#34;microeconomics-1st-year-bachelor&#34;&gt;Microeconomics (1st year Bachelor)&lt;/h4&gt;
+&lt;p&gt;2017&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

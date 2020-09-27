@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Kevin Remmy</title>
+    <link>/publication-type/1/</link>
+      <atom:link href="/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 26 Sep 2020 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>/img/avatar.jpg</url>
+      <title>1</title>
+      <link>/publication-type/1/</link>
+    </image>
+    
+    <item>
+      <title>Endogenous product attribute choice and the design of electric vehicle subsidies</title>
+      <link>/publication/jmp/</link>
+      <pubDate>Sat, 26 Sep 2020 00:00:00 +0200</pubDate>
+      <guid>/publication/jmp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

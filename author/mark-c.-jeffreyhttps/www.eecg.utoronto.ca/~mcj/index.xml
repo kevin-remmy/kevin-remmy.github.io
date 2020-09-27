@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>[Mark C. Jeffrey](https://www.eecg.utoronto.ca/~mcj/) | Kevin Remmy</title>
+    <link>/author/mark-c.-jeffreyhttps/www.eecg.utoronto.ca/~mcj/</link>
+      <atom:link href="/author/mark-c.-jeffreyhttps/www.eecg.utoronto.ca/~mcj/index.xml" rel="self" type="application/rss+xml" />
+    <description>[Mark C. Jeffrey](https://www.eecg.utoronto.ca/~mcj/)</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>/img/avatar.jpg</url>
+      <title>[Mark C. Jeffrey](https://www.eecg.utoronto.ca/~mcj/)</title>
+      <link>/author/mark-c.-jeffreyhttps/www.eecg.utoronto.ca/~mcj/</link>
+    </image>
+    
+  </channel>
+</rss>

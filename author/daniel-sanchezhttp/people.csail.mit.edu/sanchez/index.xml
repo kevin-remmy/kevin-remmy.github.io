@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>[Daniel Sanchez](http://people.csail.mit.edu/sanchez/) | Kevin Remmy</title>
+    <link>/author/daniel-sanchezhttp/people.csail.mit.edu/sanchez/</link>
+      <atom:link href="/author/daniel-sanchezhttp/people.csail.mit.edu/sanchez/index.xml" rel="self" type="application/rss+xml" />
+    <description>[Daniel Sanchez](http://people.csail.mit.edu/sanchez/)</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>/img/avatar.jpg</url>
+      <title>[Daniel Sanchez](http://people.csail.mit.edu/sanchez/)</title>
+      <link>/author/daniel-sanchezhttp/people.csail.mit.edu/sanchez/</link>
+    </image>
+    
+  </channel>
+</rss>
