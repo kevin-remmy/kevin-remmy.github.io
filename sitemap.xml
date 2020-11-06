@@ -13,11 +13,6 @@
   </url>
   
   <url>
-    <loc>/publication/jmp/</loc>
-    <lastmod>2020-09-26T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/author/kevin-remmy/</loc>
     <lastmod>2020-09-26T00:00:00+02:00</lastmod>
   </url>
@@ -34,6 +29,11 @@
   
   <url>
     <loc>/publication/</loc>
+    <lastmod>2020-09-26T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/jmp/</loc>
     <lastmod>2020-09-26T00:00:00+02:00</lastmod>
   </url>
   
