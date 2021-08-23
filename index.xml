@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Kevin Remmy</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 26 Sep 2020 00:00:00 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 26 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/avatar.jpg</url>
       <title>Kevin Remmy</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Subsidy design when firms can adjust product attributes: The case of electric vehicles (Job Market Paper)</title>
       <link>/publication/jmp/</link>
-      <pubDate>Sat, 26 Sep 2020 00:00:00 +0200</pubDate>
+      <pubDate>Sat, 26 Sep 2020 00:00:00 +0000</pubDate>
       <guid>/publication/jmp/</guid>
       <description></description>
     </item>
@@ -23,7 +23,7 @@
     <item>
       <title></title>
       <link>/misc/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>/misc/</guid>
       <description>&lt;h2 id=&#34;miscellaneous&#34;&gt;Miscellaneous&lt;/h2&gt;
 &lt;h4 id=&#34;student-run-competition-policy-reading-group&#34;&gt;Student-run Competition Policy Reading Group&lt;/h4&gt;
@@ -37,7 +37,7 @@
     <item>
       <title>Research</title>
       <link>/research/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>/research/</guid>
       <description>&lt;h2 id=&#34;job-market-paper&#34;&gt;Job Market Paper:&lt;/h2&gt;
 &lt;h4 id=&#34;subsidy-design-when-firms-can-adjust-product-attributes-the-case-of-electric-vehiclespapersjmp_vfpdf&#34;&gt;
@@ -60,7 +60,7 @@ markups, but also in how airlines adjust their route networks. We estimate the m
     <item>
       <title>Teaching Assistanceship</title>
       <link>/teaching/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>/teaching/</guid>
       <description>&lt;h4 id=&#34;econometrics-1st-year-master&#34;&gt;Econometrics (1st year Master)&lt;/h4&gt;
 &lt;p&gt;Fall 2017, Fall 2018, Fall 2019&lt;br&gt;
