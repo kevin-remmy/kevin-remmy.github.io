@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Research | Kevin Remmy</title>
-    <link>/publication/</link>
-      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
-    <description>Research</description>
+    <title>Charles Pébereau | Kevin Remmy</title>
+    <link>/author/charles-pebereau/</link>
+      <atom:link href="/author/charles-pebereau/index.xml" rel="self" type="application/rss+xml" />
+    <description>Charles Pébereau</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 20 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/avatar.jpg</url>
-      <title>Research</title>
-      <link>/publication/</link>
+      <title>Charles Pébereau</title>
+      <link>/author/charles-pebereau/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>/publication/rtp/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
       <guid>/publication/rtp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Subsidy design when firms can adjust product attributes: The case of electric vehicles (Job Market Paper)</title>
-      <link>/publication/jmp/</link>
-      <pubDate>Sat, 26 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/jmp/</guid>
       <description></description>
     </item>
     

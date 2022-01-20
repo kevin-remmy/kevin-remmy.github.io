@@ -5,12 +5,20 @@
     <link>/publication-type/0/</link>
       <atom:link href="/publication-type/0/index.xml" rel="self" type="application/rss+xml" />
     <description>0</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 26 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 20 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/avatar.jpg</url>
       <title>0</title>
       <link>/publication-type/0/</link>
     </image>
+    
+    <item>
+      <title>Barriers to real-time electricity pricing: Evidence from New Zealand</title>
+      <link>/publication/rtp/</link>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/rtp/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Subsidy design when firms can adjust product attributes: The case of electric vehicles (Job Market Paper)</title>
