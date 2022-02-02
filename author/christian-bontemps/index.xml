@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Christian Bontemps | Kevin Remmy</title>
+    <link>/author/christian-bontemps/</link>
+      <atom:link href="/author/christian-bontemps/index.xml" rel="self" type="application/rss+xml" />
+    <description>Christian Bontemps</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 30 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/avatar.jpg</url>
+      <title>Christian Bontemps</title>
+      <link>/author/christian-bontemps/</link>
+    </image>
+    
+    <item>
+      <title>Ex-post Evaluation of the American Airlines–US Airways Merger: a structural approach</title>
+      <link>/publication/aaus_jtep/</link>
+      <pubDate>Sat, 30 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/aaus_jtep/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

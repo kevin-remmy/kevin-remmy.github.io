@@ -5,7 +5,7 @@
     <link>/author/kevin-remmy/</link>
       <atom:link href="/author/kevin-remmy/index.xml" rel="self" type="application/rss+xml" />
     <description>Kevin Remmy</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 20 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 02 Feb 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/avatar.jpg</url>
       <title>Kevin Remmy</title>
@@ -13,18 +13,26 @@
     </image>
     
     <item>
-      <title>Barriers to real-time electricity pricing: Evidence from New Zealand</title>
-      <link>/publication/rtp/</link>
-      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/rtp/</guid>
+      <title>Adjustable product attributes, indirect network effects, and subsidy design: The case of electric vehicles</title>
+      <link>/publication/jmp/</link>
+      <pubDate>Wed, 02 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/jmp/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Subsidy design when firms can adjust product attributes: The case of electric vehicles (Job Market Paper)</title>
-      <link>/publication/jmp/</link>
-      <pubDate>Sat, 26 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/jmp/</guid>
+      <title>Ex-post Evaluation of the American Airlines–US Airways Merger: a structural approach</title>
+      <link>/publication/aaus_jtep/</link>
+      <pubDate>Sat, 30 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/aaus_jtep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Barriers to real-time electricity pricing: Evidence from New Zealand</title>
+      <link>/publication/rtp/</link>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/rtp/</guid>
       <description></description>
     </item>
     

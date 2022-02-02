@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Kevin Remmy</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 20 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 02 Feb 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/avatar.jpg</url>
       <title>Kevin Remmy</title>
@@ -13,18 +13,26 @@
     </image>
     
     <item>
-      <title>Barriers to real-time electricity pricing: Evidence from New Zealand</title>
-      <link>/publication/rtp/</link>
-      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/rtp/</guid>
+      <title>Adjustable product attributes, indirect network effects, and subsidy design: The case of electric vehicles</title>
+      <link>/publication/jmp/</link>
+      <pubDate>Wed, 02 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/jmp/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Subsidy design when firms can adjust product attributes: The case of electric vehicles (Job Market Paper)</title>
-      <link>/publication/jmp/</link>
-      <pubDate>Sat, 26 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/jmp/</guid>
+      <title>Ex-post Evaluation of the American Airlines–US Airways Merger: a structural approach</title>
+      <link>/publication/aaus_jtep/</link>
+      <pubDate>Sat, 30 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/aaus_jtep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Barriers to real-time electricity pricing: Evidence from New Zealand</title>
+      <link>/publication/rtp/</link>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/rtp/</guid>
       <description></description>
     </item>
     
@@ -48,35 +56,43 @@
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>/research/</guid>
       <description>&lt;h2 id=&#34;working-papers&#34;&gt;Working Papers:&lt;/h2&gt;
-&lt;h4 id=&#34;subsidy-design-when-firms-can-adjust-product-attributes-the-case-of-electric-vehiclespapersjmp_vfpdf&#34;&gt;
-&lt;a href=&#34;papers/jmp_vf.pdf&#34;&gt;Subsidy design when firms can adjust product attributes: The case of electric vehicles&lt;/a&gt;&lt;/h4&gt;
-&lt;p&gt;&lt;font size=&#34;2&#34;&gt;This paper shows how subsidy design affects market outcomes in multi-product oligopolies when firms can adjust prices and product attributes. I show this in the electric vehicle (EV) market, which is characterized by subsidies and falling input prices. Using novel data from Germany, I estimate an equilibrium model of demand and supply of new cars. On the supply side, firms respond to subsidies by adjusting their electric vehicles&#39; price and driving range. I find that the marginal cost of providing range decreased by 33% from 2012 to 2018. This decrease led to more expensive EVs with a greater range and a higher markup. Conversely, a subsidy introduced in Germany led to cheaper EVs with a smaller range and a lower markup. Finally, I compare different subsidy schemes and find that policymakers face a trade-off between maximizing diffusion, minimizing CO2 emissions, but can address distributional aspects.&lt;/font&gt;&lt;/p&gt;
+&lt;h4 id=&#34;adjustable-product-attributes-indirect-network-effects-and-subsidy-design-the-case-of-electric-vehiclespapersjmp_vfpdf&#34;&gt;
+&lt;a href=&#34;papers/jmp_vf.pdf&#34;&gt;Adjustable product attributes, indirect network effects, and subsidy design: The case of electric vehicles&lt;/a&gt;&lt;/h4&gt;
 &lt;h4 id=&#34;barriers-to-real-time-electricity-pricing-evidence-from-new-zealandpapersrtp_pebereau_remmypdf&#34;&gt;
 &lt;a href=&#34;papers/RTP_Pebereau_Remmy.pdf&#34;&gt;Barriers to real-time electricity pricing: Evidence from New Zealand&lt;/a&gt;&lt;/h4&gt;
 &lt;p&gt;&lt;font size=&#34;2&#34;&gt; &lt;em&gt;Joint with 
-&lt;a href=&#34;https://sites.google.com/view/charlespebereau&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Charles Pébereau&lt;/a&gt;&lt;/em&gt; &lt;/font&gt;&lt;br&gt;
-&lt;font size=&#34;2&#34;&gt; This paper studies the introduction of real-time electricity pricing in the New Zealand residential retail market to understand why its market share remained below 1.25%. We use rich panel data of all retail switches between 2014 and 2018 and an unexpected wholesale price spike to study adoption and attrition. Exploiting the staggered roll-out of real-time pricing in different locations we find that attrition decreases with experience. We also find that prospective adopters are present biased. The combination of these findings explains why adoption stalled and shows that wholesale price spikes pose a serious threat to widespread adoption of real-time pricing. &lt;/font&gt;&lt;/p&gt;
+&lt;a href=&#34;https://sites.google.com/view/charlespebereau&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Charles Pébereau&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;h2 id=&#34;work-in-progress&#34;&gt;Work in progress:&lt;/h2&gt;
 &lt;h4 id=&#34;price-competition-and-endogenous-product-choice-in-networks-evidence-from-the-us-airline-industry&#34;&gt;Price Competition and Endogenous Product Choice in Networks: Evidence from the US Airline Industry&lt;/h4&gt;
 &lt;p&gt;&lt;font size=&#34;2&#34;&gt; &lt;em&gt;Joint with 
 &lt;a href=&#34;https://www.tse-fr.eu/people/christian-bontemps&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Christian Bontemps&lt;/a&gt; and 
-&lt;a href=&#34;https://www.cristinagualdani.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cristina Gualdani&lt;/a&gt;&lt;/em&gt; &lt;/font&gt;&lt;br&gt;
-&lt;font size=&#34;2&#34;&gt; The recent merger waives in airline markets have received attention by researchers and the general public alike. Most academic studies have analysed the problem using demand/supply or entry models. These contributions assume that airlines’ route networks are exogenous, or that airlines’ entry decisions are i.i.d. across routes. Instead, we estimate a two-stage model where airlines choose their route networks in the first stage and compete in prices in the second stage. The two-stage framework allows us to account for selection of airlines into interdependent routes. Moreover, it permits us to make counterfactual exercises which robustly predict changes not only in prices and
-markups, but also in how airlines adjust their route networks. We estimate the model using crosssectional data on the US airline market and use our results to evaluate a merger between American Airlines and US Airways. We find that after the merger consumer surplus rises by around 7% and that remedies imposed to the merging parties by the Department of Justice at Charlotte Airport were effective in preventing harm to consumers. &lt;/font&gt;&lt;/p&gt;
+&lt;a href=&#34;https://www.cristinagualdani.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cristina Gualdani&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;publications&#34;&gt;Publications:&lt;/h2&gt;
+&lt;h4 id=&#34;ex-post-evaluation-of-the-american-airlinesus-airways-merger-a-structural-approachpapersbontemps_remmy_wei_jteppdf&#34;&gt;
+&lt;a href=&#34;papers/bontemps_remmy_wei_jtep.pdf&#34;&gt;Ex-post Evaluation of the American Airlines–US Airways Merger: a structural approach&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;font size=&#34;2&#34;&gt; &lt;em&gt;Joint with 
+&lt;a href=&#34;https://www.tse-fr.eu/people/christian-bontemps&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Christian Bontemps&lt;/a&gt; and Jiangyu Wei&lt;/em&gt;&lt;br&gt;
+Journal of Transport Economics and Policy (forthcoming)&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Teaching Assistanceship</title>
+      <title>Teaching</title>
       <link>/teaching/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>/teaching/</guid>
-      <description>&lt;h4 id=&#34;econometrics-1st-year-master&#34;&gt;Econometrics (1st year Master)&lt;/h4&gt;
+      <description>&lt;h3 id=&#34;university-of-mannheim&#34;&gt;University of Mannheim&lt;/h3&gt;
+&lt;h4 id=&#34;topics-in-environmental-and-energy-economics-master&#34;&gt;Topics in Environmental and Energy Economics (Master)&lt;/h4&gt;
+&lt;p&gt;Spring 2022&lt;/p&gt;
+&lt;h4 id=&#34;antitrustcompetition-policy-bachelor&#34;&gt;Antitrust/Competition Policy (Bachelor)&lt;/h4&gt;
+&lt;p&gt;Fall 2021&lt;/p&gt;
+&lt;h3 id=&#34;toulouse-school-of-economics&#34;&gt;Toulouse School of Economics&lt;/h3&gt;
+&lt;h4 id=&#34;ta-for-econometrics-1st-year-master&#34;&gt;TA for Econometrics (1st year Master)&lt;/h4&gt;
 &lt;p&gt;Fall 2017, Fall 2018, Fall 2019&lt;br&gt;
 TA Coordinator: 2019&lt;/p&gt;
-&lt;h4 id=&#34;r-programming-1st-year-master&#34;&gt;R Programming (1st year Master)&lt;/h4&gt;
+&lt;h4 id=&#34;ta-for-r-programming-1st-year-master&#34;&gt;TA for R Programming (1st year Master)&lt;/h4&gt;
 &lt;p&gt;Fall 2017, Fall 2018, Fall 2019&lt;/p&gt;
-&lt;h4 id=&#34;microeconomics-1st-year-bachelor&#34;&gt;Microeconomics (1st year Bachelor)&lt;/h4&gt;
+&lt;h4 id=&#34;ta-for-microeconomics-1st-year-bachelor&#34;&gt;TA for Microeconomics (1st year Bachelor)&lt;/h4&gt;
 &lt;p&gt;Spring 2017&lt;/p&gt;
 </description>
     </item>

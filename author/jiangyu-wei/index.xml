@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jiangyu Wei | Kevin Remmy</title>
+    <link>/author/jiangyu-wei/</link>
+      <atom:link href="/author/jiangyu-wei/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jiangyu Wei</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 30 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/avatar.jpg</url>
+      <title>Jiangyu Wei</title>
+      <link>/author/jiangyu-wei/</link>
+    </image>
+    
+    <item>
+      <title>Ex-post Evaluation of the American Airlines–US Airways Merger: a structural approach</title>
+      <link>/publication/aaus_jtep/</link>
+      <pubDate>Sat, 30 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/aaus_jtep/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
