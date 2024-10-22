@@ -1,0 +1,11 @@
+relativeURLs = true
+title = "Kevin Remmy"
+theme = "academimal"
+sectionPagesMenu = "main"
+defaultContentLanguage = "en"
+ignorefiles = [ "hugo_travis_ci", ".travis.yml" ]
+
+[params]
+    shortbio = "Postdoctoral researcher, University of Mannheim"
+    logo = "avatar.jpg"
+
