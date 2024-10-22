@@ -20,6 +20,17 @@
 {{ $scratch := newScratch }}
 {{ $scratch.Set "pubcnt" 0 }}
 
+{{ with .Site.Data.working_papers }}
+<hr>
+<h2 id="workingpapers">Working Papers</h2>
+{{ range . }}
+{{ range .works }}
+{{ partial "publication.html" (dict "context" . "pid" ($scratch.Get "pubcnt")) }}
+{{ $scratch.Add "pubcnt" 1 }}   
+{{ end }}
+{{ end }}
+{{ end }}
+
 {{ with .Site.Data.publications }}
 <hr>
 <h2 id="publications">Publications</h2>
@@ -32,17 +43,6 @@
 {{ end }}
 
 
-{{ with .Site.Data.working_papers }}
-<hr>
-<h2 id="workingpapers">Working Papers</h2>
-{{ range . }}
-{{ range .works }}
-{{ partial "publication.html" (dict "context" . "pid" ($scratch.Get "pubcnt")) }}
-{{ $scratch.Add "pubcnt" 1 }}   
-{{ end }}
-{{ end }}
-{{ end }}
-
 {{ with .Site.Data.work_in_progress }}
 <hr>
 <h2 id="workinprogress">Work in Progress</h2>
@@ -54,9 +54,9 @@
 {{ end }}
 {{ end }}
 
-{{ with .GetPage "/sections/from-another-life.md" }}
+{{ with .GetPage "/sections/teaching.md" }}
 <hr>
-<h2 id="fromanotherlife">From Another Life</h2>
+<h2 id="fromanotherlife">Teaching</h2>
 {{ .Content }}
 {{ end }}
 
