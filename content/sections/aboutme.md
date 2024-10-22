@@ -1,6 +1,6 @@
 Welcome to my website!
 
-I am a postdoctoral researcher at the Department of Economics of the University of Mannheim. My main research fields are Empirical Industrial Organization, Environmental Economics, and Antitrust Economics. I received my Ph.D. from Toulouse School of Economics in 2021.
+I am a postdoctoral researcher in the Department of Economics at the University of Mannheim. I am also a Research Affiliate at the Center for Economic Policy Research. My research fields are Empirical Industrial Organization, Environmental Economics, and Antitrust Economics. I received my Ph.D. from Toulouse School of Economics in 2021.
 
-__[Curriculum Vitae](/pdf/cv.pdf)__ (Updated October 2024)
-
+__[Curriculum Vitae](/pdf/cv.pdf)__ (Updated October 2024)   
+__[Google Scholar Profile](https://scholar.google.com/citations?user=AJ7SCXk_LBcC&hl=de)__
