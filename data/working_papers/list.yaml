@@ -1,9 +1,12 @@
 works:
 
-- title: "When Will Electric Vehicles Connect to the Grid?"
+- title: "Equilibrium Effects in Complementary Markets: Electric Vehicle Adoption and Electricity Pricing"
+  pdflink: "pdf/ev_electricity.pdf"
   coauthors: "Pascal Heid and Mathias Reynaert"
-  note: "Job market paper, coming soon"
-
+  note: "Job market paper"
+  abstract: >
+      The transition to electric vehicles (EVs) shifts the complementary market for passenger transport from oil to electricity. We develop and estimate a joint equilibrium model of the German electricity and automobile markets, emphasizing the timing of EV charging, as electricity generation costs and pollution vary intraday. Our results show that under Germany’s current electricity pricing scheme, EVs create a significant pecuniary externality: electricity expenses rise by €0.66 for every €1 spent charging. Exposing charging to wholesale price variation eliminates the pecuniary externality, makes EVs greener, and increases adoption—a triple dividend.
+  
 - title: "Price Competition and Endogenous Product Choice in Networks: Evidence from the US Airline Industry"
   pdflink: "/pdf/Airline_network_Bontemps_Gualdani_Remmy.pdf"
   coauthors: "Christian Bontemps and Cristina Gualdani"
