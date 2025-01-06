@@ -4,5 +4,5 @@ I am a postdoctoral researcher in the Department of Economics at the University 
 
 I will be on the 2024-25 Job Market.
 
-__[Curriculum Vitae](/pdf/cv.pdf)__ (Updated October 2024)   
+__[Curriculum Vitae](/pdf/cv.pdf)__ (Updated January 2025)   
 __[Google Scholar Profile](https://scholar.google.com/citations?user=AJ7SCXk_LBcC&hl=de)__
