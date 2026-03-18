@@ -23,10 +23,4 @@ works:
   abstract: >
       We estimate a structural model of electricity retailer choices accommodating various sources of consumer inertia, including inattention, limited information, switching costs, and product differentiation. The model disentangles the relative importance of different frictions. We estimate our model using individual-level data of all retailer switches and queries on a price comparison website in New Zealand. We find that price comparison tools strongly impact market structure and consumer surplus. However, mandating all consumers search for alternatives has stronger effects on market structure and consumer surplus gains. Our results help policymakers design policies that improve consumer choices and effective competition in retail markets.
 
-- title: "Fueling Electrification: The Impact of Gas Prices on Hybrid Car Usage"
-  pdflink: "/pdf/phev_usage.pdf"
-  book: "Conditionally accepted, Journal of the Association of Environmental and Resource Economists"
-  coauthors: "Laura Grigolon and Eunseong Park"
-  abstract: >
-      We use micro-level data on fuel consumption, mileage, and travel mode to study plug-in hybrid drivers' responses to fuel prices. When fuel prices rise, plug-in hybrids reduce fuel consumption more than gasoline and diesel cars. They do not reduce their mileage but increase electric recharging. As the share of kilometers driven in electric mode by plug-in hybrids is only half the official test cycle value, fuel prices are effective in improving the environmental performance of these vehicles.
 
