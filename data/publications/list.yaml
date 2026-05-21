@@ -1,22 +1,37 @@
 works:
 - title: "Adjustable product attributes, indirect network effects, and subsidy design: The case of electric vehicles"
   pdflink: "/pdf/evs_final.pdf"
-  book: "Forthcoming, American Economic Journal: Economic Policy"
-  abstract: >
-      This paper develops a structural model of endogenous product attribute choice in the presence of indirect network effects to study electric vehicle (EV) subsidies. Using data on the German EV market, I find that a support scheme almost doubled EV sales but substantially affected the price and driving range of EVs. When designing subsidies, these adjustments create a trade-off between optimizing different policy objectives. Large purchase subsidies maximize EV sales whereas large charging station subsidies maximize consumer and total surplus. The results suggest that maximizing EV sales can lead to unintended consequences in the form of price and range adjustments.
+  book: "American Economic Journal: Economic Policy, 2026, 18 (2): 107–40"
+  links:
+    - url: "https://www.aeaweb.org/articles?id=10.1257/pol.20230294"
+      text: "Paper"
+    - url: "https://www.openicpsr.org/openicpsr/project/227721/version/V1/view"
+      text: "Replication files"
 
 - title: "Fueling Electrification: The Impact of Gas Prices on Hybrid Car Usage"
   pdflink: "/pdf/phev_usage.pdf"
   book: "Journal of the Association of Environmental and Resource Economics 2026, Vol. 13 (3), 681-711"
   coauthors: "Laura Grigolon and Eunseong Park"
+  links:
+    - url: "https://www.journals.uchicago.edu/doi/epdf/10.1086/739663"
+      text: "Paper"
+    - url: "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/XKOD8D"
+      text: "Replication files"
 
 - title: "Barriers to real-time electricity pricing: Evidence from New Zealand"
   pdflink: "/pdf/RTP_Pebereau_Remmy.pdf"
   book: "International Journal of Industrial Organization 2023, 89, 102979"
   coauthors: "Charles Pébereau"
+  links:
+    - url: "https://www.sciencedirect.com/science/article/pii/S0167718723000607"
+      text: "Paper"
+    
 
 - title: "Ex-post Evaluation of the American Airlines–US Airways Merger: a structural approach"
   pdflink: "/pdf/JTEP_Bontemps_Remmy_Wei.pdf"
   book: "Journal of Transport Economics and Policy, 2022, 56 (2), 129-155"
   coauthors: "Christian Bontemps and Jiangyu Wei"
+  links:
+    - url: "https://www.liverpooluniversitypress.co.uk/doi/10.3828/jtep.2022.56.2.129"
+      text: "Paper"
 
