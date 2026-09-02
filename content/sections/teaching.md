@@ -1,5 +1,5 @@
 __University of Mannheim__  
-Empirical IO (Ph.D.): since 2026<br> 
+Empirical IO (Ph.D.): since 2026<br>    
 Empirical Methods for Energy and Environmental Economics (Bachelor): since 2025<br>   
 Empirical IO (Master): 2024-2025<br>  
 Topics in Environmental and Energy Economics (Master): 2022-2025<br>  
